@@ -24,13 +24,10 @@ This project showcases end-to-end proficiency in the Power BI ecosystem, from da
 
 * **ETL (Extract, Transform, Load):** Connected to various data sources (e.g., SQL, Excel, CSV) and executed the full ETL process.
 * **Data Cleaning:** Handled missing values, standardized data types, and resolved data quality issues.
-### 2. Data Modeling & DAX
+* 
+### 2. Data Modeling
 
 * **Relationship Management:** Established a robust **Star Schema** by defining one-to-many relationships between fact tables (Sales) and dimension tables (Time, Product, Region).
-* **DAX (Data Analysis Expressions):** Wrote complex **DAX measures** to calculate:
-    * **Time Intelligence:** Year-over-Year (YoY) Growth, Running Totals, and Moving Averages.
-    * **KPIs:** Weighted Averages, Margins (Profit/Revenue), and Sales Targets vs. Actuals.
-    * **Filtering Context:** Used functions like `CALCULATE`, `ALL`, and `FILTER` for precise measure definition.
 
 ### 3. Visualization & Dashboard Design
 
