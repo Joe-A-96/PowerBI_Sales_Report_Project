@@ -39,3 +39,5 @@ This project showcases end-to-end proficiency in the Power BI ecosystem, from da
     * **Distribution:** Gauge or Card visuals for KPI tracking
 <img width="674" height="430" alt="image" src="https://github.com/user-attachments/assets/9069e785-cc5b-4870-908c-f96ef0cf0c9c" />
       
+**Link to my Dashboard**
+[Link to my Dashboard](https://app.powerbi.com/links/xbB85OXHBz?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
