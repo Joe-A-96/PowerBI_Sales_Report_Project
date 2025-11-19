@@ -1,5 +1,3 @@
-# PowerBI_Sales_Report_Project
-
 ## 📈 Interactive Sales Performance Dashboard (Power BI)
 
 **A comprehensive Business Intelligence solution built in Power BI to analyze, visualize, and monitor key sales performance indicators (KPIs), trends, and regional effectiveness across a retail or organizational dataset.**
